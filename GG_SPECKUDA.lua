@@ -90,8 +90,8 @@ end
 
 -- Dynamic Loader (script sebenar)
 local github_user = "ayobanw"
-local repo_name = "ALLCPM"
-local script_file = " [GH] AYOB PROGRAM V5.lua"  -- 🚨 rename fail tanpa space
+local repo_name = "SPEC_KUDA"
+local script_file = "[GH] SCRIPT KUDA .lua"  -- 🚨 rename fail tanpa space
 
 local script_url = "https://raw.githubusercontent.com/" .. github_user .. "/" .. repo_name .. "/main/" .. script_file
 
